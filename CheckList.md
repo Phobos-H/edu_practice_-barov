@@ -41,3 +41,9 @@
   ЧАСТЬ 2
 Шаг 1 Ip адрес на интерфейсе f0/1 роутера r1
 <img width="597" height="230" alt="image" src="https://github.com/user-attachments/assets/04586fe4-4ed5-4b3e-8bf8-f68b9c124ed2" />
+Шаг 2 Маршрутизация между VLAN на r1
+<img width="621" height="510" alt="image" src="https://github.com/user-attachments/assets/7ead73bc-d8f6-4b53-94f3-4725e77a5f67" />
+<img width="628" height="338" alt="image" src="https://github.com/user-attachments/assets/d8eb906d-0b77-41b2-8db9-3910dbe40733" />
+Шаг 3 Настройка DHCP сервера на R1
+<img width="444" height="321" alt="image" src="https://github.com/user-attachments/assets/729b3771-0e79-4946-88e4-5887423b9a25" />
+Шаг 4 Проверка связи
