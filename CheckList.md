@@ -65,3 +65,25 @@
 Шаг 3 Настройка DHCP сервера на R1
 <img width="444" height="321" alt="image" src="https://github.com/user-attachments/assets/729b3771-0e79-4946-88e4-5887423b9a25" />
 Шаг 4 Проверка связи
+<img width="591" height="447" alt="изображение" src="https://github.com/user-attachments/assets/9fe64825-694d-4459-b7b7-32643c06f195" />
+
+  ЧАСТЬ 3
+Шаг 1 Переименование и вкл MLS
+<img width="206" height="93" alt="изображение" src="https://github.com/user-attachments/assets/15420b00-3ab2-4e91-b05e-641bd8057fdb" />
+<img width="119" height="38" alt="изображение" src="https://github.com/user-attachments/assets/fc1fc27c-74f1-440d-a9cf-7f3319594a2c" />
+
+Шаг 2 Создать VLAN 100 и 200
+<img width="166" height="194" alt="изображение" src="https://github.com/user-attachments/assets/40db4f8a-c507-4595-9bfe-bf439f593469" />
+
+Шаг 3 Назначь порты в VLAN
+<img width="289" height="268" alt="изображение" src="https://github.com/user-attachments/assets/da73014e-c2c3-4a2e-88fc-f3ae0483fca8" />
+
+Шаг 4 Настрить SVI для VLAN 100 и 200
+<img width="395" height="272" alt="изображение" src="https://github.com/user-attachments/assets/2c03207d-fb4e-434e-b55e-0a491bbde4cf" />
+
+Шаг 5 — Настрой интерфейсы 3-го уровня
+<img width="400" height="489" alt="изображение" src="https://github.com/user-attachments/assets/ac26cda4-17f0-4f2f-a65c-9aa082a98723" />
+
+Проверка
+<img width="856" height="579" alt="изображение" src="https://github.com/user-attachments/assets/10207678-bc08-4ce3-809c-1c2c9d1c1aca" />
+  ЧАСТЬ 4
