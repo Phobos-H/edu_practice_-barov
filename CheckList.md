@@ -86,4 +86,57 @@
 
 Проверка
 <img width="856" height="579" alt="изображение" src="https://github.com/user-attachments/assets/10207678-bc08-4ce3-809c-1c2c9d1c1aca" />
+
   ЧАСТЬ 4
+  
+Шаг 1 — IP-адреса на R2 и R3
+<img width="322" height="289" alt="изображение" src="https://github.com/user-attachments/assets/6f6f5629-4346-4505-87a6-ded7eb5360c1" />
+
+<img width="330" height="304" alt="изображение" src="https://github.com/user-attachments/assets/d4fc7462-9ff8-42e0-bd8e-c1765bf8160b" />
+
+Шаг 2 — HSRP на интерфейсе f0/0 (R2 и R3)
+<img width="238" height="192" alt="изображение" src="https://github.com/user-attachments/assets/3172a41c-d295-46bf-b9e0-02335ff0c8ba" />
+
+<img width="245" height="163" alt="изображение" src="https://github.com/user-attachments/assets/0c2d26bf-2df9-4ed5-9e08-e1b1f0dcb1ff" />
+
+Шаг 3 — Проверка HSRP
+<img width="761" height="108" alt="изображение" src="https://github.com/user-attachments/assets/26c4a110-cf73-4c75-9b79-c1fbaeed0f7b" />
+
+<img width="761" height="110" alt="изображение" src="https://github.com/user-attachments/assets/fc061739-ef49-408e-a03f-3c7b2a4269f1" />
+
+  ЧАСТЬ 5
+
+Шаг 1 EIGRP AS 100
+R1<img width="317" height="288" alt="изображение" src="https://github.com/user-attachments/assets/e8381e55-d212-4ea2-9547-61f955917a46" />
+
+R2<img width="336" height="189" alt="изображение" src="https://github.com/user-attachments/assets/436fa52a-ce28-41cb-b76f-7064bd7013c6" />
+
+R3<img width="333" height="196" alt="изображение" src="https://github.com/user-attachments/assets/687b222e-cabc-4c40-8ba1-afa7da65113c" />
+
+MLS<img width="344" height="305" alt="изображение" src="https://github.com/user-attachments/assets/a34cb104-2250-4829-b78b-fc6b5a60c72d" />
+
+Шаг 2 Проверка SSH с сервера 10.0.0.0/8 к SW1 и SW2
+
+<img width="745" height="112" alt="изображение" src="https://github.com/user-attachments/assets/9d6b2a64-f7e0-4133-8fe4-6d7202aae5f3" />
+
+Шаг 3 настройка сервера
+<img width="617" height="225" alt="изображение" src="https://github.com/user-attachments/assets/58ecda63-efe2-47a6-8ccd-5a3700515ea5" />
+
+<img width="525" height="317" alt="изображение" src="https://github.com/user-attachments/assets/6474af0f-e9a4-4eb4-ad41-2ef88534beb4" />
+
+
+  ЧАСТЬ 6 
+Шаг 1 ACL для веб-сервера
+<img width="850" height="270" alt="изображение" src="https://github.com/user-attachments/assets/31acf718-9ff5-4887-b471-94e9119476da" />
+
+Шаг 2. Запрет ping на R2 и R3
+R2<img width="652" height="206" alt="изображение" src="https://github.com/user-attachments/assets/5679757a-97c7-4c16-94c2-3ab12d70a2ec" />
+
+R3<img width="635" height="203" alt="изображение" src="https://github.com/user-attachments/assets/4684cb66-7dee-4752-8293-dab88ac6d487" />
+
+Проверка
+
+<img width="718" height="359" alt="изображение" src="https://github.com/user-attachments/assets/8abf0d08-343a-4c9a-8b37-4b4d5e83f4a1" />
+<img width="711" height="371" alt="изображение" src="https://github.com/user-attachments/assets/3cb9f62c-e2bb-4166-bcb5-04151f091e0f" />
+
+  ЧАСТЬ 7
