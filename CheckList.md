@@ -140,3 +140,23 @@ R3<img width="635" height="203" alt="изображение" src="https://github
 <img width="711" height="371" alt="изображение" src="https://github.com/user-attachments/assets/3cb9f62c-e2bb-4166-bcb5-04151f091e0f" />
 
   ЧАСТЬ 7
+  
+Шаг 1 Loopback 1 на R1
+<img width="562" height="243" alt="image" src="https://github.com/user-attachments/assets/63eb6cbb-0c38-4e36-8466-a64ff9140fe5" />
+
+Шаг 2 Loopback 3 на R3
+<img width="557" height="198" alt="image" src="https://github.com/user-attachments/assets/1b9967e2-c2cc-47b2-81d4-d0929d34dc70" />
+
+Шаг 3 Настройка RIPv2 на R1 и R3
+<img width="457" height="126" alt="image" src="https://github.com/user-attachments/assets/22d40f9f-2dc5-4caf-a30d-7889588f14d7" />
+
+<img width="466" height="129" alt="image" src="https://github.com/user-attachments/assets/a30d1f67-bbda-4913-95cb-c6f3464108dd" />
+
+Шаг 4 Настройка туннеля R1 и R3
+<img width="453" height="143" alt="image" src="https://github.com/user-attachments/assets/2ebe5b8c-783f-4aad-8fa3-4e2bb2f40caf" />
+
+<img width="436" height="147" alt="image" src="https://github.com/user-attachments/assets/2591b231-022d-4124-a49c-cd2038fdc484" />
+
+  ЧАСТЬ 8
+
+Шаг 1 
