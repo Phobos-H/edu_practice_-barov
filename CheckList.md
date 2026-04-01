@@ -1,4 +1,4 @@
-  ЧАСТЬ №1
+<img width="669" height="607" alt="image" src="https://github.com/user-attachments/assets/41aab15b-b22c-4076-8b7f-b7c0a3ff1060" />  ЧАСТЬ №1
 Шаг 1 создание топологии
 <img width="1336" height="581" alt="Снимок экрана 2026-03-19 152155" src="https://github.com/user-attachments/assets/b1348557-609e-4a36-b2b6-8973fbf9aa39" />
 
@@ -159,4 +159,36 @@ R3<img width="635" height="203" alt="изображение" src="https://github
 
   ЧАСТЬ 8
 
-Шаг 1 
+Шаг 1 Настройка NTP
+R1 <img width="633" height="377" alt="image" src="https://github.com/user-attachments/assets/5185485f-45c5-4b45-b277-e58740666106" />
+
+R2 <img width="624" height="170" alt="image" src="https://github.com/user-attachments/assets/fca98e50-0bb0-4004-a645-455a653f9787" />
+
+R3 <img width="623" height="236" alt="image" src="https://github.com/user-attachments/assets/74a72c77-7dfd-4d73-a198-c04712ff2e1f" />
+
+MLS <img width="629" height="173" alt="image" src="https://github.com/user-attachments/assets/7655cbcb-082c-4922-80fe-478f5e5b2dfe" />
+
+Шаг 2 SNMP на R2 и R3
+R2 <img width="509" height="110" alt="image" src="https://github.com/user-attachments/assets/a9a68a0e-8dfc-4582-86ea-1215d01c376f" />
+
+R3 <img width="498" height="172" alt="image" src="https://github.com/user-attachments/assets/d519bce4-2d1e-4c7b-a917-294dbd15601c" />
+
+Шаг 3 Telnet на R3 с AAA-сервером
+<img width="358" height="20" alt="image" src="https://github.com/user-attachments/assets/b822e439-271d-431a-af70-422fd237a62a" />
+
+<img width="479" height="128" alt="image" src="https://github.com/user-attachments/assets/f638f870-26f9-42c1-86ad-8fa6b767ae85" />
+
+<img width="393" height="320" alt="image" src="https://github.com/user-attachments/assets/800529cf-24da-4050-b73c-a8f89ebed5ad" />
+
+Шаг 4 FTp на R2
+<img width="268" height="33" alt="image" src="https://github.com/user-attachments/assets/00f6841a-1779-445b-aef5-d94aa15320bc" />
+
+<img width="469" height="128" alt="image" src="https://github.com/user-attachments/assets/d2c7fecf-12d3-4bd3-a52d-a3097521edd1" />
+
+Шаг 5 Telnet
+R2 <img width="295" height="15" alt="image" src="https://github.com/user-attachments/assets/34d36e02-f57d-4e51-a41f-1dde095cb47c" />
+
+Шаг 6  Смена пароля на r3 через бэкап
+Physical -> Выкл питание -> войти в режим ROMMON -> Сменить пароль
+<img width="445" height="172" alt="image" src="https://github.com/user-attachments/assets/ba30ea63-41b6-47ca-b0b6-f1018a3ed65a" />
+
